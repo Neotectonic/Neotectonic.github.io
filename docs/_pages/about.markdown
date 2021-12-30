@@ -3,7 +3,7 @@
   path: ""
   type: pages
 values: 
-layout: single
+layout: default
 title: About
 permalink: /about/
 ---
