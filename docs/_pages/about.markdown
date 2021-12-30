@@ -3,9 +3,7 @@ title: About
 permalink: /about/
 ---
 
-<figure class="half">
-  <a href="/assets/images/ian-550.jpg"></a>
-  </figure>
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ian-550.jpg){: .align-right}
   
 I am a geologist who studies the evolution of the Earth's surface.
 
