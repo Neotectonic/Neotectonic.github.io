@@ -6,6 +6,8 @@ excerpt: "Tectonic evolution of mountain belts"
 gallery:
   - url: /assets/images/buhanka.jpg
     image_path: assets/images/buhanka.jpg 
+  - url: /assets/images/kgtrench.jpg
+    image_path: assets/images/kgtrench.jpg 
 ---
 
 {% include gallery %}
