@@ -1,5 +1,5 @@
 ---
-short_name: clusters
+# short_name: clusters
 title: "Earthquake Clusters"
 permalink: /research/clusters/
 Excerpt: "Spatiotemporal clustering of earthquakes"
