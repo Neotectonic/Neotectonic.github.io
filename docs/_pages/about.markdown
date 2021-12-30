@@ -1,5 +1,10 @@
 ---
-layout: page
+# _pages
+- scope: 
+  path: ""
+  type: pages
+values: 
+layout: single
 title: About
 permalink: /about/
 ---
