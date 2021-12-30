@@ -15,5 +15,5 @@ In my spare time I like to take on impossibly ambitious design projects: like tu
 
 Google Scholar: [Ian Pierce](https://scholar.google.com/citations?user=bJK4WiAAAAAJ&hl=en) 
 
-Twitter: [@neotectonic](twitter.com/neotectonic)
+Twitter: [@neotectonic](https://twitter.com/neotectonic)
 
