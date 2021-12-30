@@ -10,7 +10,7 @@ Rates of fault slip derived from geologic measurements form the underpinnings of
 
 
 Read more
-<ol>
+<ul>
   <li>Pierce, I.K.D., Wesnousky, S.G., Owen, L.A., Bormann, J.M., Li, X., Caffee, M., 2021. Accommodation of Plate Motion in an Incipient Strike-Slip System: The Central Walker Lane. Tectonics 40, e2019TC005612. https://doi.org/10.1029/2019TC005612 </li>
   <li>Koehler, R.D., Dee, S., Elliott, A., Hatem, A.E., Pickering, A., Pierce, I., Seitz, G., 2020. Field response and surface rupture characteristics of the 2020 Mw6.5 Monte Cristo Range earthquake, central Walker Lane, Nevada. Seismol. Res. Lett. </li>
   <li>Li, X., Pierce, I.K.D., Bormann, J.M., Hammond, W.C., Zhang, Z., Li, C., Zheng, W., Zhang, P., 2021. Tectonic Deformation of the Northeastern Tibetan Plateau and Its Surroundings Revealed With GPS Block Modeling. J. Geophys. Res. Solid Earth 126, e2020JB020733. https://doi.org/10.1029/2020JB020733</li>
