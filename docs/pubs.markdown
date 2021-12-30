@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Publications"
 permalink: /pubs/
+---
 
 <ol>
 <li>Pierce, I. K. D., S. G. Wesnousky, S. Moon, and  S. Saha (2021), Testing the synchronicity of splay-fault ruptures in Carson Valley, Nevada, USA. Bulletin of the Seismological Society of America
