@@ -12,7 +12,7 @@ My [research](/research/) combines satellite and aerial remote sensing, structur
 
 I'm currently a postdoctoral research fellow working with the University of Oxford [Earthquakes and Active Tectonics](https://www.earth.ox.ac.uk/research-groups/active-tectonics-and-earthquakes-research/) group. I earned my PhD at the [Center for Neotectonic Studies](http://neotectonics.seismo.unr.edu/CNS_index.html) at the University of Nevada, Reno. I did my undergraduate studies at [Humboldt State University](https://geology.humboldt.edu/) in far Northern California, and grew up in [Santa Cruz, California](https://goo.gl/maps/mz88mCLBKzUNepdL6). 
 
-In my spare time I like to take on impossibly-ambitious design projects: like turning a retired army truck into a [fire-breathing whale](._assets/images/whale.jpg), or fabricating a [mobile field office](._assets/images/cyberroamer.jpg). I'm also fond of long road trips, more recently by [motorbike](._assets/images/moto.jpg). 
+In my spare time I like to take on impossibly-ambitious design projects: like turning a retired army truck into a [fire-breathing whale](/assets/images/whale.jpg), or fabricating a [mobile field office](/assets/images/cyberroamer.jpg). I'm also fond of long road trips, more recently by [motorbike](/assets/images/moto.jpg). 
 
 
 Google Scholar: [Ian Pierce](https://scholar.google.com/citations?user=bJK4WiAAAAAJ&hl=en) 
