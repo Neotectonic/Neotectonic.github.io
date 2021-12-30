@@ -1,7 +1,7 @@
 ---
 short_name: walker
 title: "The Walker Lane" 
-permalink: /research/caspian
+permalink: /research/walker
 excerpt: "Reconciling geodetic and geologic observations"
 ---
 
