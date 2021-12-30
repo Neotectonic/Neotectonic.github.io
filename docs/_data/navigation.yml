@@ -2,14 +2,14 @@
 main:
   - title: "About"
     url: /_pages/about/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Posts"
+    url: /_posts/
+  - title: "Research"
+    url: /_pages/research
+  - title: "Publications"
+    url: /_pages/publications
+  - title: "Sitemap"
+    url: /sitemap/
 
 
 
