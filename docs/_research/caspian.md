@@ -1,5 +1,5 @@
 ---
-short_name: caspian
+#short_name: caspian
 title: "Caspian Basin" 
 permalink: /research/caspian
 excerpt: "Building a model of the Caspian-Caucasus Triple Junction"
