@@ -1,8 +1,4 @@
 ---
-# _pages
-  path: ""
-  type: pages
-values: 
 layout: default
 title: About
 permalink: /about/
