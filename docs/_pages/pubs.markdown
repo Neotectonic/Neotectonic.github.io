@@ -28,4 +28,3 @@ Ponti, D. J., Blair, J. L., Rosa, C. M., Thomas, K., Pickering, A.J., Akciz, S.,
 <li>Huang, W., Yang, X., Li, A., Pierce, I.K.D., Thompson, J.A., Angster, S.J., Zhang, L., 2015. Late Pleistocene shortening rate on the northern margin of the Yanqi Basin, southeastern Tian Shan, NW China. J. Asian Earth Sci. 112, 11–24. https://doi.org/10.1016/j.jseaes.2015.08.024 </li>
 <li>Angster, S., E. J. Fielding, Wesnousky, S. G., Pierce, I. K. D., Chamlagain,D., Gautam, D., Upreti, B. N., Kumahara, Y., Nakata, T., (2015), Field Reconnaissance after the 25 April 2015 M 7.8 Gorkha Earthquake, Seismological Research Letters, 86, 6, 1506-1513, 2015.</li>
 
-</ol>
