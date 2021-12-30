@@ -3,6 +3,10 @@ title: About
 permalink: /about/
 ---
 
+<figure class="half">
+  <a href="/assets/images/ian-550.jpg"></a>
+  </figure>
+  
 I am a geologist who studies the evolution of the Earth's surface.
 
 I view the motion of tectonic plates as a series of incremental movements during large earthquakes along faults; building mountains, opening basins, and moving continents one rupture at a time through the millenia. These basins and mountains provide the diversity of environments that we live in. I study tectonics during the Quaternary, as much of the evidence of the interaction between tectonic and climatic processes from this period remains readily observable on the landscape. 
