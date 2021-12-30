@@ -26,7 +26,7 @@ collections:
 locale                   : "en-US"
 title                    : "Ian Pierce"
 title_separator          : "-"
-subtitle                 : "Geologist" # site tagline that appears below site title in masthead
+subtitle                 : "geologist" # site tagline that appears below site title in masthead
 name                     : "Ian Pierce"
 description              : "Earthquake geology & remote sensing."
 url                      : "https://neotectonic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -112,7 +112,7 @@ analytics:
 author:
   name             : "Ian Pierce"
   avatar           : "/_assets/images/ian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an earthquake geologist."
+ # bio              : "I am an earthquake geologist."
   location         : "Oxford, UK"
   email            :
   links:
