@@ -1,5 +1,4 @@
 ---
-layout: pages
 title: "Publications"
 permalink: /pubs/
 ---
