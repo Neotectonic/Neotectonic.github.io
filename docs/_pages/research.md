@@ -6,11 +6,10 @@ title: Research
 <h1> Research</h1>
 
 <ul>
-    {% for author in site.authors %}
+    {% for research in site._research %}
     <li>
-      <h2>{{ author.name }}</h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
+      <h2>{{ research.name }}</h2>
+      <p>{{ research.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
