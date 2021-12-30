@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: collection
 title: Research
 permalink: /research/
+entries_layout: grid
+classes: wide
 ---
 
 <h1> Research</h1>
