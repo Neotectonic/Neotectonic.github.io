@@ -1,11 +1,15 @@
 ---
-# short_name: clusters
+short_name: clusters
 title: "Earthquake Clusters"
 permalink: /research/clusters/
-Excerpt: "Spatiotemporal clustering of earthquakes"
+excerpt: "Spatiotemporal clustering of earthquakes"
+gallery:
   - url: /assets/images/nvtrench.jpg
     image_path: assets/images/nvtrench.jpg 
 ---
+
+{% include gallery %}
+
 Typical seismic hazard models assume that seismicity is randomly distributed across earthquake faults through time (Petersen et al., 2014), yet contrary to these models,  earthquakes are increasingly witnessed to occur in spatiotemporal clusters spanning decades, such as the 1997-2016 cluster of destructive earthquakes in Central Italy (Caporali et al., 2019). I recently submitted a study of a normal fault system in the western Basin and Range (USA) where I synthesize prehistoric earthquake records from paleoseismic trench excavations with 3D observations of fault structure measured from airborne lidar data (Pierce, 2021). The multidimensional results of this study show that while each of the many faults in this system should on average produce an earthquake every 2,000-10,000 years, the fault system produced at least four large earthquakes over a 200 year timespan approximately 500 years ago. This result  joins an increasing number of historical examples of earthquake sequences that exhibit a clustering behavior, contradicting what might be expected from most seismic hazard models that assume randomly distributed seismicity through time. Future work will rely on numerical modeling to develop a process based explanation for why these clusters occur.
 
 
