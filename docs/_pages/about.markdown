@@ -5,7 +5,7 @@ permalink: /about/
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/ian-550.jpg){: .align-right}
   
-I am a geologist who studies the evolution of the Earth's surface.
+I am a geologist who studies the evolution of the Earth's surface through a lens of tectonics and geomorphology.
 
 I view the motion of tectonic plates as a series of incremental movements during large earthquakes along faults; building mountains, opening basins, and moving continents one rupture at a time through the millenia. These basins and mountains provide the diversity of environments that we live in. I study tectonics during the Quaternary, as much of the evidence of the interaction between tectonic and climatic processes from this period remains readily observable on the landscape. 
 
