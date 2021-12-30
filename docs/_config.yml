@@ -310,6 +310,6 @@ defaults:
       path: ""
       type: research
     values:
-      layout: double
+      layout: single
       author_profile: false
       share: true
