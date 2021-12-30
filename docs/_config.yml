@@ -17,8 +17,8 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 # collections
 collections:
   research:
-  output: true
-  permalink: /_:collection/:path
+    output: true
+    permalink: /:collection/:path
 
 
 
