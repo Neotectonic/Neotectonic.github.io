@@ -1,6 +1,5 @@
 ---
 # _pages
-- scope: 
   path: ""
   type: pages
 values: 
