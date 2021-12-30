@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /_pages/about
-  - title: "Posts"
+  title: "About"
+    url: /_pages/about/
+  title: "Posts"
      url: /_posts/
-  - title: "Research"
+  title: "Research"
      url: /_pages/Research/
-  - title: "Publications"
+  title: "Publications"
      url: /_pages/Pubs/
-   - title: "Sitemap"
+  title: "Sitemap"
      url: /_pages/sitemap/
