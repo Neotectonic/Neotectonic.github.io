@@ -1,29 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Exporting Orthos from iDar"
 date:   2021-12-29 23:33:02 +0000
-categories: jekyll update
+categories: tutorial
 ---
-TEST TEST TEST . Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+This is surprisingly non-trivial, but it is not a common requirement in the 3D design world, which is more oriented towards VR, gaming, or CAD than for our niche need. 
+1. In your 3D scanner app, clean up your model, deleting unnecessary areas. 
+2. export as OBJ file, and transfer file to your computer 
+3. Import model into blender (free) Don’t worry that it isn’t displaying the texture. 
+4. Under view, select orthographic. Position your view such that you are looking dead on at the trench exposure. Now select the camera and push ctrl + alt + NumPad0 to snap the camera to your current view. Now select the camera in the scene collection, and click the movie camera menu icon (object properties) and change type to orthographic. Adjust the bounding box to cover the trench. 
+5. Select Viewport Shading in the top right of the viewing window (sphere icon) to preview your image. 
+6. Select the light in the collection.  Click to set the cursor in front of the trench. Now right click and snap selection to cursor. Push F12 to preview render of the trench. Move the light towards or away from the trench as needed to adjust. You can copy paste additional lights and adjust the intensity as desired
