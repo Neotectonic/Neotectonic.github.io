@@ -22,7 +22,7 @@ subtitle                 : "Geologist" # site tagline that appears below site ti
 name                     : "Ian Pierce"
 description              : "Earthquake geology & remote sensing."
 url                      : "https://neotectonic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/index" # the subpath of your site, e.g. "/blog"
 repository               : "neotectonics" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Ian Pierce"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/_assets/images/ian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an earthquake geologist."
   location         : "Oxford, UK"
   email            :
@@ -111,12 +111,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://scholar.google.com/citations?user=bJK4WiAAAAAJ&hl"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/neotectonic"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
