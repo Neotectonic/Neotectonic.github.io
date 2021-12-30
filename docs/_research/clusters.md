@@ -10,6 +10,7 @@ Typical seismic hazard models assume that seismicity is randomly distributed acr
 
 Read more
 <ul> 
+    <li>Pierce, I., 2021. Spatiotemporal Clustering of Paleoseismicity in the Walker Lane, Nevada: an Extensional Supercycle? [Preprint]. Earth Space Sci. Open Arch. https://doi.org/10.1002/essoar.10508802.1 </li>
   <li>Petersen, M.D., Moschetti, M.P., Powers, P.M., Mueller, C.S., Haller, K.M., Frankel, A.D., Zeng, Y., Rezaeian, S., Harmsen, S.C., Boyd, O.S., Field, N., Chen, R., Rukstales, K.S., Luco, N., Wheeler, R.L., Williams, R.A., Olsen, A.H., 2014. Documentation for the 2014 Update of the United States National Seismic Hazard Maps (U.S. Geological Survey Open-File Report No. 2014–1091).</li>
   <li>Caporali, A., Zurutuza, J., Bertocco, M., 2019. A Time-Dependent Model of Elastic Stress in the Central Apennines, Italy. J. Geophys. Res. Solid Earth 124, 9852–9869. https://doi.org/10.1029/2019JB017800 </li>
   <li>Pierce, I., 2021. Spatiotemporal Clustering of Paleoseismicity in the Walker Lane, Nevada: an Extensional Supercycle? [Preprint]. Earth Space Sci. Open Arch. https://doi.org/10.1002/essoar.10508802.1 </li>
