@@ -4,8 +4,8 @@ title: "Tien Shan"
 permalink: /research/kyrgyz
 excerpt: "Tectonic evolution of mountain belts"
 gallery:
-  - url: /assets/images/kyrgyz.jpg
-    image_path: assets/images/kyrgyz.jpg 
+  - url: /assets/images/buhanka.jpg
+    image_path: assets/images/buhanka.jpg 
 ---
 
 {% include gallery %}
