@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Ian Pierce"
-  avatar           : "/assets/images/ian.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/photos/ian.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
  # bio              : "I am an earthquake geologist."
   location         : "Oxford, UK"
   email            :
