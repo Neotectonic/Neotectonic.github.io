@@ -10,10 +10,10 @@ I view the motions of tectonic plates as a series of incremental movements durin
 
 I'm currently a postdoctoral research fellow working with the University of Oxford [Earthquakes and Active Tectonics](https://www.earth.ox.ac.uk/research-groups/active-tectonics-and-earthquakes-research/) group.
 
-In my spare time I like to take on impossibly ambitious design projects: like turning a retired army truck into a [fire-breathing whale](../photos/whale.jpg) or fabricating a [mobile field office](../photos/cyberroamer.jpg). 
+In my spare time I like to take on impossibly ambitious design & build projects: like turning a retired army truck into a [fire-breathing whale](../photos/whale.jpg) or fabricating a [mobile field office](../photos/cyberroamer.jpg). 
 
 
 Google Scholar: [Ian Pierce](https://scholar.google.com/citations?user=bJK4WiAAAAAJ&hl=en) 
 
-Twitter: [@neotectonic](twitter.com/neotectonic)
+Twitter: [@neotectonic](https://twitter.com/neotectonic)
 
