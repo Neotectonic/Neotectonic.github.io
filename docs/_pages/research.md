@@ -1,6 +1,8 @@
 ---
 layout: collection
 title: Research
+header:
+  image: /assets/images/rsrchbanner.jpg
 collection: research
 permalink: /research/
 entries_layout: grid
