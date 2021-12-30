@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an earthquake geologist, geomorphologist, and remote sensing nerd. 
+I am an earthquake geology, geomorphology, and remote sensing nerd. 
 
 I view the motions of tectonic plates as a series of incremental movements during large earthquakes along faults; building mountains, opening basins, and moving continents one rupture at a time through the millenia. These basins and mountains provide the diversity of environments that we live in. I study tectonics during the Quaternary, as much of the evidence of the interaction between tectonic and climatic processes from this period remains readily observable on the landscape. I combine satellite and aerial remote sensing, structural geology, paleoseismology, geomorphology, geochronology, and geophysics to study active tectonics and earthquake processes. 
 
