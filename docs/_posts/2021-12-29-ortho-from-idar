@@ -11,4 +11,9 @@ This is surprisingly non-trivial, but it is not a common requirement in the 3D d
 3. Import model into blender (free) Don’t worry that it isn’t displaying the texture. 
 4. Under view, select orthographic. Position your view such that you are looking dead on at the trench exposure. Now select the camera and push ctrl + alt + NumPad0 to snap the camera to your current view. Now select the camera in the scene collection, and click the movie camera menu icon (object properties) and change type to orthographic. Adjust the bounding box to cover the trench. 
 5. Select Viewport Shading in the top right of the viewing window (sphere icon) to preview your image. 
+
+<img src="/assets/images/posts/12-29/layout.png" />
+
 6. Select the light in the collection.  Click to set the cursor in front of the trench. Now right click and snap selection to cursor. Push F12 to preview render of the trench. Move the light towards or away from the trench as needed to adjust. You can copy paste additional lights and adjust the intensity as desired
+
+<img src="/assets/images/posts/12-29/final.png" />
