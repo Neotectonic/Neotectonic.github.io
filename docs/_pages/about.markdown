@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="assets/images/ian-550.jpg" width="50%" height="auto"  style="align:right">
+<img src="/assets/images/ian-550.jpg" width="50%" height="auto"  style="align:right">
   
 I am a geologist who studies the evolution of the Earth's surface through a lens of tectonics and geomorphology.
 
