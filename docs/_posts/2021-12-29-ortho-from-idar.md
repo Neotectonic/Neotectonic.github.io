@@ -8,9 +8,13 @@ categories: tutorial
 This is surprisingly non-trivial, but it is not a common requirement in the 3D design world, which is more oriented towards VR, gaming, or CAD than for our niche need. 
 1. In your 3D scanner app, clean up your model, deleting unnecessary areas. 
 2. export as OBJ file, and transfer file to your computer 
-3. Import model into blender (free) Don’t worry that it isn’t displaying the texture. 
-4. Under view, select orthographic. Position your view such that you are looking dead on at the trench exposure. Now select the camera and push ctrl + alt + NumPad0 to snap the camera to your current view. Now select the camera in the scene collection, and click the movie camera menu icon (object properties) and change type to orthographic. Adjust the bounding box to cover the trench. 
-5. Select Viewport Shading in the top right of the viewing window (sphere icon) to preview your image. 
+
+
+<img src="/assets/images/posts/12-29/Katz-crop.png" width="auto" height="auto" align="center"/>
+
+4. Import model into blender (free) Don’t worry that it isn’t displaying the texture. 
+5. Under view, select orthographic. Position your view such that you are looking dead on at the trench exposure. Now select the camera and push ctrl + alt + NumPad0 to snap the camera to your current view. Now select the camera in the scene collection, and click the movie camera menu icon (object properties) and change type to orthographic. Adjust the bounding box to cover the trench. 
+6. Select Viewport Shading in the top right of the viewing window (sphere icon) to preview your image. 
 
 <img src="/assets/images/posts/12-29/layout.png" width="auto" height="auto" align="center"/>
 
