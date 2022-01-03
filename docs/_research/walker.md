@@ -6,8 +6,8 @@ excerpt: "Reconciling geodetic and geologic observations"
 gallery:
   - url: /assets/images/walker.jpg
     image_path: assets/images/walker.jpg 
-  - url: /assets/images/cracks.jpg
-    image_path: assets/images/cracks.jpg 
+  - url: /assets/images/panamint.jpg
+    image_path: assets/images/panamint.jpg 
 ---
 
 {% include gallery %}
