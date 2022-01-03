@@ -1,6 +1,6 @@
 ---
 title: 2022 NEHRP Meeting iDar Trenching
-permalink: /idar
+permalink: /idar/
 ---
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
