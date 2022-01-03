@@ -1,8 +1,6 @@
 ---
 title: 2022 NEHRP Meeting iDar Trenching
 permalink: /idar/
-#width="100%" height="400"
-
 ---
 
 Demo scan: Shrine of King Taharqa, Ashmolean Museum, Oxford, UK:
