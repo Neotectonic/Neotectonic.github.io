@@ -9,6 +9,12 @@ Demo scan: Shrine of King Taharqa, Ashmolean Museum, Oxford, UK:
 
 This scan was digitally looted from the Ashmolean Museum using the 3D Scanner App. Total scanning + processing time = 4 minutes.
 
+Controls:
+Rotate-left mouse
+Pan- right or middle mouse click
+Zoom- mousewheel
+Try VR if you're brave. 
+
 Kura Thrust, Azerbaijan:
 
 <div class="sketchfab-embed-wrapper"> <iframe title="2021 Kura Thrust Trench" frameborder="0" width="100%" height="400" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/0659c8173c6845d68c5a3e99a0f8d00b/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/2021-kura-thrust-trench-0659c8173c6845d68c5a3e99a0f8d00b?utm_medium=embed&utm_campaign=share-popup&utm_content=0659c8173c6845d68c5a3e99a0f8d00b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 2021 Kura Thrust Trench </a> by <a href="https://sketchfab.com/ipierce?utm_medium=embed&utm_campaign=share-popup&utm_content=0659c8173c6845d68c5a3e99a0f8d00b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ipierce </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=0659c8173c6845d68c5a3e99a0f8d00b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
