@@ -3,7 +3,6 @@ short_name: caspian
 title: "Caspian Basin" 
 permalink: /research/caspian
 header:
-  image: /assets/images/mud.jpg
   teaser: /assets/images/mud.jpg
 excerpt: "Modeling the Caspian-Caucasus Triple Junction"
 gallery:
