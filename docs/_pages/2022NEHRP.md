@@ -13,7 +13,8 @@ Controls:<br>
 Rotate-left mouse <br>
 Pan- right or middle mouse click <br>
 Zoom- mousewheel <br>
-Try VR if you're brave. <br>
+Left click the numbered annotaions to see more information. <br>
+Try it in VR if you're feeling brave. <br>
 <br>
 <br>
 Kura Thrust, Azerbaijan:
