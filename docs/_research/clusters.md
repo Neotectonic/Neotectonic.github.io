@@ -5,7 +5,9 @@ permalink: /research/clusters/
 excerpt: "Spatiotemporal clustering of earthquakes"
 gallery:
   - url: /assets/images/nvtrench.jpg
-    image_path: assets/images/nvtrench.jpg 
+    image_path: assets/images/nvtrench.jpg
+  - url: /assets/images/frogger.jpg
+    image_path: assets/images/frogger.jpg 
 ---
 
 {% include gallery %}
