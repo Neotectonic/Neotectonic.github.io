@@ -26,9 +26,9 @@ collections:
 locale                   : "en-US"
 title                    : "Ian Pierce"
 title_separator          : "-"
-subtitle                 : "geologist" # site tagline that appears below site title in masthead
+subtitle                 : "earthquake geology & remote sensing" # site tagline that appears below site title in masthead
 name                     : "Ian Pierce"
-description              : "Earthquake geology & remote sensing."
+description              : "earthquake geology & remote sensing"
 url                      : "https://neotectonic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "neotectonics" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
