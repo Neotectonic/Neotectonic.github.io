@@ -1,6 +1,6 @@
 ---
 short_name: walker
-title: "The Walker Lane" 
+title: "Walker Lane" 
 permalink: /research/walker
 excerpt: "Reconciling geodetic and geologic observations"
 gallery:
