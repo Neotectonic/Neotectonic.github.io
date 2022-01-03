@@ -3,6 +3,8 @@ title: Interactive 'iDar' Sample Scans
 permalink: /idar/
 ---
 
+These scans were all made using the free 3DScanner App on a 2020 iPad Pro. <br><br>  
+
 Demo scan: Shrine of King Taharqa, Ashmolean Museum, Oxford, UK:
 
 <div class="sketchfab-embed-wrapper"> <iframe title="Shrine of King Taharqa" frameborder="0" width="100%" height="400" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/301b21b687244c43b02f3700cce06a62/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/shrine-of-king-taharqa-301b21b687244c43b02f3700cce06a62?utm_medium=embed&utm_campaign=share-popup&utm_content=301b21b687244c43b02f3700cce06a62" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Shrine of King Taharqa </a> by <a href="https://sketchfab.com/ipierce?utm_medium=embed&utm_campaign=share-popup&utm_content=301b21b687244c43b02f3700cce06a62" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ipierce </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=301b21b687244c43b02f3700cce06a62" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
