@@ -3,7 +3,6 @@ title: 2022 NEHRP Meeting iDar Trenching
 permalink: /idar/
 ---
 
-<!doctype html>
 <html lang="en">
   <head>
     <title>&lt;model-viewer&gt; template</title>
