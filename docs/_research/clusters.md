@@ -3,6 +3,9 @@ short_name: clusters
 title: "Earthquake Clusters"
 permalink: /research/clusters/
 excerpt: "Spatiotemporal clustering of earthquakes"
+header:
+  image: /assets/images/nvtrench.jpg
+  teaser: /assets/images/nvtrench.jpg
 gallery:
   - url: /assets/images/nvtrench.jpg
     image_path: assets/images/nvtrench.jpg
