@@ -3,6 +3,9 @@ short_name: walker
 title: "Walker Lane" 
 permalink: /research/walker
 excerpt: "Reconciling geodetic and geologic observations"
+header:
+  image: /assets/images/panamint.jpg 
+  teaser: /assets/images/panamint.jpg
 gallery:
   - url: /assets/images/walker.jpg
     image_path: assets/images/walker.jpg 
