@@ -3,8 +3,12 @@ short_name: faults
 title: "Understanding Faults" 
 permalink: /research/faults
 excerpt: "Building a new understanding of faults"
+gallery:
+  - url: /assets/images/cracks.jpg
+    image_path: assets/images/cracks.jpg 
 ---
 
+{% include gallery %}
 When driving forces overcome friction, earthquakes nucleate at depths within the Earth, and through largely unobservable processes rupture faults that extend to the surface. The satellite era has produced a revolution in the ability to measure this deformation at the Earth’s surface. Colorful radar interferograms and maps derived from change detection algorithms provide unprecedented pictures of how plates move and earthquakes rupture (Hamling et al., 2017). Consistent with predictions from mechanical modeling (Hatem et al., 2017), these images reveal that rather than being a knife edge break, or even definitive fault zone,  a significant portion of surface deformation occurs away from faults and can’t be readily measured through traditional field methods (Gold et al., 2021). This is problematic as most fault studies rely on geologic measurements performed in the field and don’t have the luxury of coseismic observations, and accuracy of these measurements is critical for relating surficial observations to earthquake parameters. While as of yet no model is able to systematically predict this observed variability, it must be a result of some subsurface fault process controlled by variability in mechanical bounding conditions, fault structure, and the rheology of near surface sediments. Uncrewed Aerial Vehicles (UAV’s) provide a cost effective method to rapidly image the landscape at an incredible detail, which I’ve successfully deployed to produce images of earthquake ruptures (Pierce et al., 2020) with a resolution as fine as 0.6 cm/pixel (2500x the detail of the 30 cm/pixel best commercially available satellite images). I pair observations from these extremely detailed images with subsurface observations from excavations and geophysical tools like seismic reflection to further our understanding of near surface deformation. Ultimately, this aims to improve the relation of surface geologic measurements to faults at seismogenic depths. 
 
 
