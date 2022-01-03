@@ -3,11 +3,16 @@ short_name: kyrgyz
 title: "Tien Shan" 
 permalink: /research/kyrgyz
 excerpt: "Tectonic evolution of mountain belts"
+header:
+  image: /assets/images/alaibanner.jpg
+  teaser: /assets/images/alaibanner.jpg
 gallery:
   - url: /assets/images/buhanka.jpg
     image_path: assets/images/buhanka.jpg 
   - url: /assets/images/kgtrench.jpg
-    image_path: assets/images/kgtrench.jpg 
+    image_path: assets/images/kgtrench.jpg
+  - url: /assets/images/alaibanner.jpg
+    image_path: assets/images/alaibanner.jpg
 ---
 
 {% include gallery %}
