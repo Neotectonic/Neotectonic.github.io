@@ -3,6 +3,9 @@ short_name: faults
 title: "Understanding Faults" 
 permalink: /research/faults
 excerpt: "Building a new understanding of faults"
+header:
+  image: /assets/images/cracks.jpg
+  teaser: /assets/images/cracks.jpg
 gallery:
   - url: /assets/images/cracks.jpg
     image_path: assets/images/cracks.jpg 
