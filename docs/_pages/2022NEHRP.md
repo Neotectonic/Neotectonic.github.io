@@ -1,5 +1,5 @@
 ---
-title: 2022 NEHRP Meeting iDar Trenching
+title: Interactive 'iDar' Sample Scans
 permalink: /idar/
 ---
 
