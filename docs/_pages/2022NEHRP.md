@@ -16,7 +16,7 @@ permalink: /idar/
   </head>
   <body>
     <!-- <model-viewer> HTML element -->
-    <model-viewer bounds="auto" src="/assets/models/kura1/KuraT2021.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="/assets/models/kura1/poster.webp" shadow-intensity="1" autoplay camera-orbit="-11.98deg 86.79deg auto">
+    <model-viewer src="/assets/models/kura1/KuraT2021.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="/assets/models/kura1/poster.webp" shadow-intensity="1" autoplay camera-orbit="-11.98deg 86.79deg auto">
       <button class="Hotspot" slot="hotspot-1" data-position="2.9094852553033865m -2.200909702151977m 0.14856624725031176m" data-normal="0.17998374502524578m 0.14895348067662906m 0.9723264431871658m" data-visibility-attribute="visible">
           <div class="HotspotAnnotation">Sample K1</div>
       </button><button class="Hotspot" slot="hotspot-2" data-position="-0.597848311488566m 0.1534910486833006m 0.686857193046169m" data-normal="0.06875530367185981m 0.11593893818155399m 0.9908737915750543m" data-visibility-attribute="visible">
