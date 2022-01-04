@@ -41,7 +41,9 @@ This scan was collected to use as a base for logging an excavated fault trench i
 <li>2016 Norcia, Italy earthquake ruptures:
 <div class="sketchfab-embed-wrapper"> <iframe title="2016 Scoglia del'Aquila" frameborder="0" width="100%" height="400" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/939f05a80623492698f8c34241567884/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/2016-scoglia-delaquila-939f05a80623492698f8c34241567884?utm_medium=embed&utm_campaign=share-popup&utm_content=939f05a80623492698f8c34241567884" target="_blank" style="font-weight: bold; color: #1CAAD9;"> 2016 Scoglia del'Aquila </a> by <a href="https://sketchfab.com/ipierce?utm_medium=embed&utm_campaign=share-popup&utm_content=939f05a80623492698f8c34241567884" target="_blank" style="font-weight: bold; color: #1CAAD9;"> ipierce </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=939f05a80623492698f8c34241567884" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-The 2016 Norcia sequence consisted of two main surface rupturing normal-fault earthquakes. August 24 M6.0 followed by the October 30 M6.5 mainshock. There are two well preserved white bands of slickensides along the cliff. The August 24 band is the thin bright white band above the thicker October 30 band. The difference in color is attributed to varying erosion. 
+The 2016 Norcia sequence consisted of two main surface rupturing normal-fault earthquakes. August 24 M6.0 followed by the October 30 M6.5 mainshock. There are two well preserved white bands of slickensides along the cliff. The August 24 band is the thin bright white band above the thicker October 30 band. The difference in color is attributed to varying erosion. <br>
 This scan was made in fall 2021, just before the 5th anniversary of the 2016 earthquake rupture.
-
+<br><br>
+  See also: <br>
+  [Orthoimage extraction tutorial using Blender](/tutorial/ortho-from-idar/)<br>
 
