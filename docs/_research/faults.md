@@ -16,7 +16,7 @@ When driving forces overcome friction, earthquakes nucleate at depths within the
 2021 Southern California Earthquake Center Poster Presentation <br>
 Unraveling the prehistoric rupture histories of faults that rupture together in the 2021 Ridgecrest Earthquakes <br>
 Do these faults always rupture together? <br> 
-<iframe width="auto" height="170" src="https://www.youtube.com/embed/MGTDIlHwMK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="auto" height="170" src="https://www.youtube.com/embed/MGTDIlHwMK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br> 
 
 
 Read more: 
