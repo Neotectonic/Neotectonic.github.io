@@ -4,7 +4,7 @@ permalink: /idar/
 ---
 
 2022 SCEC Earthquake Response Workshop Lightning Talk: 
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/uio_w1CQQXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="auto" src="https://www.youtube.com/embed/uio_w1CQQXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br><br>
 
 These scans were all made using the free 3DScanner App on a 2020 iPad Pro. <br><br>  
 <ol>
