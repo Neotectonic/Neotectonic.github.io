@@ -45,5 +45,5 @@ The 2016 Norcia sequence consisted of two main surface rupturing normal-fault ea
 This scan was made in fall 2021, just before the 5th anniversary of the 2016 earthquake rupture.
 <br><br>
   See also: <br>
-  [Orthoimage extraction tutorial using Blender](/tutorial/ortho-from-idar/)<br>
+  [Orthoimage extraction tutorial using Blender](/tutorial/ortho-from-idar/) 
 
