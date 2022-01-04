@@ -4,7 +4,7 @@ title: 3D 'iDar' Scanning
 permalink: /idar/
 excerpt: "3D scanning for geosciences"
 header:
-  teaser: /assets/images/posts/Katz-crop.png
+  teaser: /assets/images/posts/12-29/Katz-crop.png
 ---
 
 2022 SCEC Earthquake Response Workshop Lightning Talk: 
