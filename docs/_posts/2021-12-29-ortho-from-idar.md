@@ -13,14 +13,14 @@ In this tutorial I show you how to export a 2D orthographic view of a 3D model p
 <li> Export as OBJ file, and transfer file to your computer (easiest via google drive or similar).  <br>
 
 
-<img src="/assets/images/posts/12-29/Katz-crop.png" height="175" align="center"/><br>
+<img src="/assets/images/posts/12-29/Katz-crop.png" width="50%" height="auto" align="center"/><br>
   Editing your model in the 3DScanner App <br> <br>
 
 <li> Blender is a free software for 3D design. Import model into Blender (File, import). Don’t worry that it isn’t displaying the texture. Select Viewport Shading in the top right of the viewing window (sphere icon below 'Options' button) to show the texture. 
 
 <li> Under view, select orthographic. Position your view such that you are looking dead on at the trench exposure. Now select the camera (under scene collection, upper right) and push ctrl + alt + NumPad0 to snap the camera to your current view. Then click the movie camera menu icon (object properties) and change type to orthographic. Adjust the bounding box to cover the trench. <br>
 
-<img src="/assets/images/posts/12-29/layout.png" height="75" align="center"/><br>
+<img src="/assets/images/posts/12-29/layout.png" width="50%" height="auto" align="center"/><br>
  Setting up your scene. Here I am using 3 light objects to create even lighting across the model. 
   <br> 
 <br>
@@ -30,5 +30,5 @@ In this tutorial I show you how to export a 2D orthographic view of a 3D model p
 
 <li> Finally, push F12 to render your image, and then click image, then save as, and save your image in the location of choice. 
 <br>
-<img src="/assets/images/posts/12-29/final.png"  height="75"  align="center"/> <br> 
+<img src="/assets/images/posts/12-29/final.png" width="50%" height="auto" align="center"/> <br> 
   Final rendered orthoimage product can be exported to your favorite 2D drawing program. <br>
