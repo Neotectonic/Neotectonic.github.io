@@ -1,6 +1,10 @@
 ---
-title: Interactive 'iDar' Sample Scans
+short_name: idar
+title: 3D 'iDar' Scanning
 permalink: /idar/
+excerpt: "3D scanning for geosciences"
+header:
+  teaser: /assets/images/posts/Katz-crop.png
 ---
 
 2022 SCEC Earthquake Response Workshop Lightning Talk: 
