@@ -46,5 +46,5 @@ This scan was made in fall 2021, just before the 5th anniversary of the 2016 ear
 <br><br>
   See also: <br>
   <a href="/tutorial/ortho-from-idar/">Orthoimage extraction using Blender</a><br>
-  <a href="https://opentopography.org/blog/iphone-lidar-applications-geosciences">Opentopography.org Blog Post about iDar</a><br>
+  <a href="https://opentopography.org/blog/iphone-lidar-applications-geosciences">Opentopography.org blog post about iDar</a><br>
 
