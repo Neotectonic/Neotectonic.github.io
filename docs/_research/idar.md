@@ -47,4 +47,5 @@ This scan was made in fall 2021, just before the 5th anniversary of the 2016 ear
   See also: <br>
   <a href="/tutorial/ortho-from-idar/">Orthoimage extraction using Blender</a><br>
   <a href="https://opentopography.org/blog/iphone-lidar-applications-geosciences">Opentopography.org blog post about iDar</a><br>
+Luetzenburg, G., Kroon, A., Bjørk, A.A., 2021. Evaluation of the Apple iPhone 12 Pro LiDAR for an Application in Geosciences. Sci Rep 11, 22221. https://doi.org/10.1038/s41598-021-01763-9
 
