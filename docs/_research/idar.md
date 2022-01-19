@@ -46,6 +46,7 @@ This scan was made in fall 2021, just before the 5th anniversary of the 2016 ear
 <br><br>
   <li>Dog Valley fault, California 3D trench tour:
  <iframe width="auto" height="170" src="https://www.youtube.com/embed/bj9B1WB4scM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
+    This model was created by stitching photograph based structure-from-motion textures to oriented iOS laser scans. The resulting models are displayed using the Georeka software. The red translucent polygons represent the fault plane traced through several exposures. A channel margin sequence is traced and its offset measured across the fault. 
  <br> <br> <br>
   
   See also: <br>
