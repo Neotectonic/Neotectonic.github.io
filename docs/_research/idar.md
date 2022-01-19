@@ -44,6 +44,10 @@ This scan was collected to use as a base for logging an excavated fault trench i
 The 2016 Norcia sequence consisted of two main surface rupturing normal-fault earthquakes. August 24 M6.0 followed by the October 30 M6.5 mainshock. There are two well preserved white bands of slickensides along the cliff. The August 24 band is the thin bright white band above the thicker October 30 band. The difference in color is attributed to varying erosion. <br>
 This scan was made in fall 2021, just before the 5th anniversary of the 2016 earthquake rupture.
 <br><br>
+  
+ <iframe width="auto" height="170" src="https://www.youtube.com/embed/bj9B1WB4scM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <br>
+Dog Valley 3D Trench tour <br> <br>
+  
   See also: <br>
   <a href="/tutorial/ortho-from-idar/">Orthoimage extraction using Blender</a><br>
   <a href="https://opentopography.org/blog/iphone-lidar-applications-geosciences">Opentopography.org blog post about iDar</a><br>
