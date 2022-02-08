@@ -22,7 +22,7 @@ In this tutorial I show how you can use your iPad Pro as a drawing input to ease
 
 <li> You might need to still do some manual mouse-based editing to properly connect or attribute lines, but I find this process much easier than manually clicking to draw all the lines.
 
-<br><br> Happy mapping! 
+<br><br> Happy mapping! <br>
  
 
 <img src="/assets/images/posts/02-08/iPadScreen.png" width="50%" height="auto" align="center"/><br>
