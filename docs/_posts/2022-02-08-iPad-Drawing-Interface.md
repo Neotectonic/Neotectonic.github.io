@@ -6,6 +6,10 @@ categories: tutorial
 ---
 Tutorial: Use your iPad Pro as a drawing tablet input for making polylines in QGIS on Windows or Mac  <br><br>
 
+<img src="/assets/images/posts/02-08/iPadPen.jpg" width="50%" height="auto" align="center"/><br>
+  Using a pen stylus to draw polylines in QGIS<br> <br>
+
+
 If you're like me and are tired of manually clicking thousands of polyline vertices when making digital geologic maps, then hopefully this workflow saves you some pain! <br>
 In this tutorial I show how you can use your iPad Pro as a drawing input to ease the tedious task of clicking out individual vertices for polylines in QGIS.
 <ol>
@@ -28,6 +32,5 @@ In this tutorial I show how you can use your iPad Pro as a drawing input to ease
 <img src="/assets/images/posts/02-08/iPadScreen.png" width="50%" height="auto" align="center"/><br>
   iPad Screengrab showing mirrored Windows & QGIS<br> <br>
 
-<img src="/assets/images/posts/02-08/iPadPen.jpg" width="50%" height="auto" align="center"/><br>
-  Using a pen stylus to draw polylines in QGIS<br> <br>
+
 
