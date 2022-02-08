@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using your iPad Pro as a PC Mapping Interface"
-date:   2022-02-08 23:33:02 +0000
+date:   2022-02-08 21:33:02 +0000
 categories: tutorial
 ---
 Tutorial: Use your iPad Pro as a drawing tablet input for making polylines in QGIS on Windows or Mac  <br><br>
