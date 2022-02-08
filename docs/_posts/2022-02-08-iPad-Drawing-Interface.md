@@ -15,12 +15,12 @@ In this tutorial I show how you can use your iPad Pro as a drawing input to ease
 
 <li> Connect your PC to your iPad with a USB cable. Run the EasyCanvas PC program (EL Display Hub). You should now see your PC's desktop mirrored onto your iPad.
 
-<li> Open QGIS and load up your basemaps. Click the beePen icon on your taskbar, or go to Plugins>beePen. Create a new layer and name it as you like. Now click the pencil tool and start drawing on your iPad using your Apple Pen or similar stylus. Each time you release your pen a line feature will be created, add a comment or push enter to continue.
+<li> Open QGIS and load up your basemaps. Click the beePen icon on your taskbar, or go to Plugins>beePen. From the beePen plugin menu (by default center bottom window on your screen), create a new layer and name it as you like. Now click the pencil tool on the beePen toolbar and start drawing on your iPad using your Apple Pen or similar stylus. Each time you release your pen a line feature will be created, add a comment or push enter to continue. I find myself switching back and forth from the PC to iPad frequently. 
 
-<li> If needed, you can adjust the smoothing parameters from the beePen plugin window. 
+<li> If your lines are too jagged, you can adjust the smoothing parameters from the beePen plugin window. 
 
 
-<li> These line features might not have the same features you're used to, and you might need to still do some manual editing to properly connect lines, but I find this process much easier than manually clicking for all the lines.
+<li> You might need to still do some manual mouse-based editing to properly connect or attribute lines, but I find this process much easier than manually clicking to draw all the lines.
 
 <br><br> Happy mapping! 
  
