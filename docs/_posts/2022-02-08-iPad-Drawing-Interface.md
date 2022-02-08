@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Using your iPad Pro as a PC Mapping Interface"
 date:   2022-02-08 21:33:02 +0000
 categories: tutorial
