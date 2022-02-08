@@ -6,7 +6,7 @@ categories: tutorial
 ---
 Tutorial: Use your iPad Pro as a drawing tablet input for making polylines in QGIS on Windows or Mac  <br><br>
 
-If you're like me and you are tired of manually clicking thousands of polyline vertices, then hopefully this workflow saves you some pain! <br>
+If you're like me and are tired of manually clicking thousands of polyline vertices when making digital geologic maps, then hopefully this workflow saves you some pain! <br>
 In this tutorial I show how you can use your iPad Pro as a drawing input to ease the tedious task of clicking out individual vertices for polylines in QGIS.
 <ol>
 <li> First, install QGIS on your PC, and EasyCanvas on both your iPad Pro & PC. <a href="http://www.easynlight.com/en/easycanvas/">http://www.easynlight.com/en/easycanvas/</a>
