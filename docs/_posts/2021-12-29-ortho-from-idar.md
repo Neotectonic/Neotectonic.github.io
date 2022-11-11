@@ -1,7 +1,7 @@
 ---
 title:  "Exporting Orthos from iDar"
 date:   2021-12-29 23:33:02 +0000
-categories: tutorial
+categories: posts
 ---
 Tutorial: Extract a high-resolution orthoimage from a 3D Model  <br><br>
 So you have created some scans with your iPhone, but now what? <br>
