@@ -3,6 +3,7 @@ title  Trench Surveying
 date   2022-11-11 233302 +0000
 categories tutorial
 ---
+
 Tutorial Digital Paleoseismic Trenching  brbr
 In this tutorial I want to show you how I’ve been using Structure-from-Motion (SfM) photogrammetry, iOS laser scanning, and an iPad Pro to create accurately scaled digital trench logs in the field. br
 Requirements: 2020 or newer iPad Pro or iPhone Pro; Agisoft Metashape software; computer. br br
