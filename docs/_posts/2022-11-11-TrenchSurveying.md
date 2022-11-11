@@ -37,7 +37,7 @@ Our beautiful straight trench in the Kazakh steppe. <br><br>
 It doesn’t matter what order you do the next steps in, but next is to take the photos and capture the iOS lidar survey. For both surveys you want to pay attention to the lighting that will be both on the trench wall and on your camera. You want the trench wall to be evenly lit and ideally shaded. In this video you will see we are doing it just after sunset. This ensures there is still enough light but that the wall won’t have shadows and the camera won’t have lens-flare issues.  <br><br>
 
 
-For the photos I use my cell phone camera. I have a Samsung Galaxy S20 Ultra. I put the phone on a monopod that has an adapter for holding the phone. I am using a cheap Bluetooth shutter trigger to take the pictures. Our trench in this example is very narrow and not too deep, so it is easy enough to stand outside the trench to take the photos. In a bigger trench I would stand inside the trench, and if it was benched I would take another set from on each bench. br br
+For the photos I use my cell phone camera. I have a Samsung Galaxy S20 Ultra. I put the phone on a monopod that has an adapter for holding the phone. I am using a cheap Bluetooth shutter trigger to take the pictures. Our trench in this example is very narrow and not too deep, so it is easy enough to stand outside the trench to take the photos. In a bigger trench I would stand inside the trench, and if it was benched I would take another set from on each bench. <br><br>
 
 <iframe width="auto" height="170" src="https://youtube.com/embed/IHJsqFFZDsk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
