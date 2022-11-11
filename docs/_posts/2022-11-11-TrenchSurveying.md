@@ -1,7 +1,7 @@
 ---
 title:  "Digital Paleoseismic Trench Surveying"
 date:   2022-11-11 11:00:00+0000
-categories: posts
+categories: tutorial
 permalink: /posts/iOS_Surveying/
 ---
 
