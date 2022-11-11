@@ -1,7 +1,7 @@
 ---
-title  Trench Surveying
-date   2022-11-11 233302 +0000
-categories tutorial
+title:  Trench Surveying
+date:   2022-11-11 23:33:02 +0000
+categories: tutorial
 ---
 
 Tutorial Digital Paleoseismic Trenching  brbr
