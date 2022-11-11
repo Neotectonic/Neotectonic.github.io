@@ -1,5 +1,5 @@
 ---
-title:  Trench Surveying
+title:  "Digital Paleoseismic Trench Surveying"
 date:   2022-11-11 23:33:02 +0000
 categories: tutorial
 ---
