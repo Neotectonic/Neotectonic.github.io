@@ -19,7 +19,7 @@ However, in the case of a trench wall, using just raw photos to produce a model 
 
 <img src="/assets/images/posts/11-11/BowlTrench-Front.png" width="75%" height="auto" align="center"/> <br>
 <img src="/assets/images/posts/11-11/BowlTrench-Top.png" width="75%" height="auto" align="center"/> <br>
-  These screengrabs illustrate this example: the model looks OK from the front (upper), but when we look at it from above, we see that what should be a straight trench has a significant curvature. <br><br>
+  These screengrabs illustrate this example: the model looks OK from the front (upper), but when we look at it from above (lower), we see that what should be a straight trench has a significant curvature. <br><br>
 
 These issues can be dealt with by either surveying control points throughout the trench exposure, using an expensive total station or differential GPS system (e.g. Reitmann et al., 2015), or by using scale bars, calibrated points that are placed throughout the trench (e.g. Delano et al., 2022). It should be noted that the scale bar method alone is unable to correct for bowl effects.<br><br>
 
