@@ -17,21 +17,22 @@ However, in the case of a trench wall, using just raw photos to produce a model 
 1) The resulting image will be in totally arbitrary units so we can’t make accurate measurements from the photo.<br>
 2) Processing the SfM model can produce artifacts such as bowl effects where the trench walls gradually bend and warp towards the camera. This changes the geometry of the trench and prohibits correctly projecting the images to a flat surface.  <br><br>
 
-<img src="/assets/images/posts/11-11/BowlTrench-Front.png" width="50%" height="auto" align="center"/> <br>
-<img src="/assets/images/posts/11-11/BowlTrench-Top.png" width="50%" height="auto" align="center"/> <br>
-  These screengrabs illustrate this example: the model looks OK from the front, but when we look at it from above, we see that what should be a straight trench has a significant curvature. <br><br>
+<img src="/assets/images/posts/11-11/BowlTrench-Front.png" width="75%" height="auto" align="center"/> <br>
+<img src="/assets/images/posts/11-11/BowlTrench-Top.png" width="75%" height="auto" align="center"/> <br>
+  These screengrabs illustrate this example: the model looks OK from the front (upper), but when we look at it from above, we see that what should be a straight trench has a significant curvature. <br><br>
 
 These issues can be dealt with by either surveying control points throughout the trench exposure, using an expensive total station or differential GPS system (e.g. Reitmann et al., 2015), or by using scale bars, calibrated points that are placed throughout the trench (e.g. Delano et al., 2022). It should be noted that the scale bar method alone is unable to correct for bowl effects.<br><br>
 
 The method I am describing here is not dissimilar to that using a total station, but instead of requiring this expensive & bulky instrument, I’m using the laser scanner built into the 2020 onward iPhone and iPad Pros to survey the trench and extract control points.<br><br> 
 
-<hr> <br>
+<hr> 
 Part 1: Trench Surveying <br>
-<hr> <br> <br>
+<hr>  
 
 So now, on to the trench excavation and surveying tutorial. At this point, you’ve dug your trench, cleaned the walls off nicely, and made a grid. I make a grid of nails with clearly labeled flags at 1 m intervals. I use letters to denote the vertical coordinate and numbers for the horizontal coordinate. String grids hanging in front of the wall leave a lot of artifacts in SfM model- so I take the string off before photographing. <br><br>
 
 <img src="/assets/images/posts/11-11/Trench.jpg" width="50%" height="auto" align="center"/> <br> 
+Our beautiful straight trench in the Kazakh steppe. <br><br>
 
 It doesn’t matter what order you do the next steps in, but next is to take the photos and capture the iOS lidar survey. For both surveys you want to pay attention to the lighting that will be both on the trench wall and on your camera. You want the trench wall to be evenly lit and ideally shaded. In this video you will see we are doing it just after sunset. This ensures there is still enough light but that the wall won’t have shadows and the camera won’t have lens-flare issues.  <br><br>
 
